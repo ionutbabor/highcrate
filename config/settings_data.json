@@ -1,0 +1,203 @@
+{
+  "current": {
+    "type_base_size": "16px",
+    "color_primary": "#000",
+    "color_body_text": "#000",
+    "top-header-bkg-color": "#f8f8f8",
+    "top-header-text-color": "#999999",
+    "header-bkg-color": "#fff",
+    "body-bkg-color": "#eeeeee",
+    "footer-bkg-color": "#fff",
+    "footer-copyright-bkg": "#333333",
+    "footer-copyright-text": "#999999",
+    "border-color": "#eeeeee",
+    "button-color": "#84c88b",
+    "button-text-color": "#333532",
+    "social_sharing_blog": true,
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "social_twitter_link": "#",
+    "social_facebook_link": "#",
+    "social_pinterest_link": "",
+    "social_instagram_link": "#",
+    "social_snapchat_link": "",
+    "social_tumblr_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "cart_notes_enable": true,
+    "favicon": "",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#1990c6",
+    "checkout_button_color": "#1990c6",
+    "checkout_error_color": "#ff6d6d",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/highcrate-logo.png",
+          "logo_max_width": 70,
+          "main_linklist": "main-menu",
+          "top-banner": "shopify:\/\/shop_images\/placeholder-1920x600_-_Copy_723ad05d-1a85-4cc6-9c54-eaf11bc4d764.png",
+          "header-top": "header-top-menu"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "footer_linklist": "how-to-buy",
+          "footer_linklist_2": "customer-service",
+          "footer_linklist_3": "partner-promotion",
+          "show_payment_icons": true
+        }
+      },
+      "product": {
+        "type": "product",
+        "settings": {
+          "show_share_buttons": true
+        }
+      },
+      "info": {
+        "type": "info",
+        "blocks": {
+          "1506516935996": {
+            "type": "content",
+            "settings": {
+              "icon-img": "shopify:\/\/shop_images\/icon1.png",
+              "icon-title": "Great Value",
+              "icon-description": "We offer competitive prices on our 100 million plus product range."
+            }
+          },
+          "1506517235819": {
+            "type": "content",
+            "settings": {
+              "icon-img": "shopify:\/\/shop_images\/icon1.png",
+              "icon-title": "Worldwide Delivery",
+              "icon-description": "With sites in 5 languages, we ship to over 200 countries & regions."
+            }
+          },
+          "1506517257039": {
+            "type": "content",
+            "settings": {
+              "icon-img": "shopify:\/\/shop_images\/icon1.png",
+              "icon-title": "Safe Payment",
+              "icon-description": "Pay with the world’s most popular and secure payment methods."
+            }
+          },
+          "1506517279478": {
+            "type": "content",
+            "settings": {
+              "icon-img": "shopify:\/\/shop_images\/icon1.png",
+              "icon-title": "Shop with Confidence",
+              "icon-description": "Our Buyer Protection covers your purchase from click to delivery."
+            }
+          },
+          "1506517311109": {
+            "type": "content",
+            "settings": {
+              "icon-img": "shopify:\/\/shop_images\/icon1.png",
+              "icon-title": "24\/7 Help Center",
+              "icon-description": "Round-the-clock assistance for a smooth shopping experience."
+            }
+          },
+          "1506517328505": {
+            "type": "content",
+            "settings": {
+              "icon-img": "shopify:\/\/shop_images\/icon1.png",
+              "icon-title": "Shop On-The-Go",
+              "icon-description": "<a href=\"#\">Download the app<\/a> and get the world of AliExpress at your fingertips."
+            }
+          }
+        },
+        "block_order": [
+          "1506516935996",
+          "1506517235819",
+          "1506517257039",
+          "1506517279478",
+          "1506517311109",
+          "1506517328505"
+        ],
+        "settings": {}
+      },
+      "1506530615899": {
+        "type": "collection-list",
+        "blocks": {
+          "1506530615899-0": {
+            "type": "collection",
+            "settings": {
+              "left-collection": "men-s-clothing",
+              "right-collection": "men-s-clothing",
+              "bottom-left-collection": "men-s-clothing",
+              "bottom-middle-collection": "women-s-clothing",
+              "bottom-right-collection": "men-s-clothing"
+            }
+          }
+        },
+        "block_order": [
+          "1506530615899-0"
+        ],
+        "settings": {
+          "title": "Women's clothing",
+          "category_link": "womens-clothing"
+        }
+      }
+    },
+    "content_for_index": [
+      "1506530615899"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-list-0": {
+              "type": "collection",
+              "settings": {}
+            },
+            "collection-list-1": {
+              "type": "collection",
+              "settings": {}
+            },
+            "collection-list-2": {
+              "type": "collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "collection-list-0",
+            "collection-list-1",
+            "collection-list-2"
+          ],
+          "settings": {}
+        },
+        "featured-collection": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "featured-product": {
+          "type": "featured-product",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "collection-list",
+        "featured-collection",
+        "featured-product"
+      ]
+    }
+  }
+}
